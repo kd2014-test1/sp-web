@@ -22,3 +22,5 @@
 
 ## URL
 * http://github.com/kd2014-test1/sp-web.git
+
+## 権限
