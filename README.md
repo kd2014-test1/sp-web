@@ -21,4 +21,4 @@
 * 2015年4月1日
 
 ## URL
-* http://github.com/
+* http://github.com/kd2014-test1/sp-web.git
